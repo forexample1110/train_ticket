@@ -17,6 +17,7 @@ import codecs
 import argparse
 import os
 import time
+import numpy as np
 
 class TrainTicket(object):
 
